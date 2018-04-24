@@ -1,1 +1,6 @@
 .sfdx
+.vscode
+DS_Store
+.salesforce
+.idea
+.project
